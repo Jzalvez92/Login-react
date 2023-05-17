@@ -1,0 +1,29 @@
+.home {
+    height: 100%;
+  }
+  
+  .mapa {
+    background-image: url('https://emtstatic.com/2017/07/olacalor.jpg');
+    background-size: cover;
+    height: 100%;
+    width: 100%;
+    position: fixed;
+    top: 0;
+    left: 0;
+    opacity: 0.9;
+    z-index: -1;
+  }
+  
+  .cabecera {
+    text-align: center;
+    padding-top: 20%;
+    color: white;
+  }
+  
+  h1 {
+    font-size: 5em;
+    margin-top: 0;
+    margin-bottom: 0;
+    text-shadow: 2px 2px 4px #000000;
+  }
+  

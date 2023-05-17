@@ -1,0 +1,30 @@
+.tiempo {
+    font-size: 1.2rem;
+    text-align: center;
+    margin: 2rem 0;
+  }
+  
+  .tiempo__titulo {
+    font-size: 1.5rem;
+  }
+  
+  .tiempo__info {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 1rem;
+  }
+  
+  .tiempo__icono {
+    font-size: 3rem;
+    margin-right: 1rem;
+  }
+  
+  .tiempo__temperatura {
+    font-size: 2rem;
+  }
+  
+  .tiempo__descripcion {
+    font-style: italic;
+  }
+  
